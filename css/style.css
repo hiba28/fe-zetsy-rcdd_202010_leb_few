@@ -26,3 +26,6 @@ body {
 .color{
 	color: rgb(152,173,166);
 }
+img{
+	border: 2px solid lightgrey;
+}
