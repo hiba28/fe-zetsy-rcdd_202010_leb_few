@@ -29,3 +29,7 @@ body {
 img{
 	border: 5px solid lightgrey;
 }
+img:hover{
+	border-color: rgb(152,173,166);
+	cursor: pointer;
+}
