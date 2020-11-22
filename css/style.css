@@ -33,3 +33,8 @@ img:hover{
 	border-color: rgb(152,173,166);
 	cursor: pointer;
 }
+summary{
+	display: absolute;
+	bottom:0;
+	right: 0;
+}
