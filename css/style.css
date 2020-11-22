@@ -26,10 +26,13 @@ body {
 .color{
 	color: rgb(152,173,166);
 }
-img{
+header img{
+	border: 5px solid  rgb(152,173,166);
+}
+.images img{
 	border: 5px solid lightgrey;
 }
-img:hover{
+.images img:hover{
 	border-color: rgb(152,173,166);
 	cursor: pointer;
 }
