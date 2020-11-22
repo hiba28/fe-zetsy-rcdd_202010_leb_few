@@ -20,6 +20,8 @@ body {
 /* Write all remaining styles here */
 .zetsy a{
 	font-size: 60px;
-	color: rgb(152,173,166);
 	text-decoration: none;
+}
+.color{
+	color: rgb(152,173,166);
 }
